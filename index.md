@@ -38,6 +38,11 @@ Developer Tools: GitHub, VS Code, Visual Studio, VIM, Emacs, Geany, Sublime Text
 
 ## languages
 
-
+- html
+- python
+- php 
+- javascript
+- csharp
+-
 
 
