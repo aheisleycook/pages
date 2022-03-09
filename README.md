@@ -1,3 +1,3 @@
 # pages
 
-this si my resume
+This is my resume in markdown
